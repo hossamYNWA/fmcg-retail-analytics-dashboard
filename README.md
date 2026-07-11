@@ -1,8 +1,8 @@
 # FMCG Retail Analytics Dashboard
 
-An end-to-end Power BI solution for FMCG retail performance — inventory health, sales performance, and category management insights — built on a synthetic dataset modeled after realistic multi-region retail operations.
+An end-to-end Power BI solution for FMCG retail performance, inventory health, sales performance, and category management insights. Built on a synthetic dataset modeled after realistic multi-region retail operations.
 
-![Executive Summary](docs/screenshots/01_executive_summary.png)
+![Executive Summary](docs/screenshots/01_executive_summary.JPG)
 
 ## Overview
 
@@ -23,7 +23,7 @@ This dashboard simulates the analytics stack a category manager or inventory ana
 
 Star schema with 1 fact table and 4 dimension tables:
 
-![Data Model](docs/data_model.png)
+![Data Model](docs/data_model.PNG)
 
 | Table | Type | Grain |
 |---|---|---|
@@ -56,13 +56,13 @@ Star schema with 1 fact table and 4 dimension tables:
 <summary>Screenshots</summary>
 
 **Inventory Health**
-![Inventory Health](docs/screenshots/02_inventory_health.png)
+![Inventory Health](docs/screenshots/02_inventory_health.JPG)
 
 **Sales Performance**
-![Sales Performance](docs/screenshots/03_sales_performance.png)
+![Sales Performance](docs/screenshots/03_sales_performance.JPG)
 
 **Locations**
-![Locations](docs/screenshots/04_locations.png)
+![Locations](docs/screenshots/04_locations.JPG)
 
 </details>
 
